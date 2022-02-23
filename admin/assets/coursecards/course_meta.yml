@@ -1,13 +1,13 @@
 ---
 ## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
 ### Hugo Template Metadata
-title: "TKO Placeholder"
-date: "2022-02-14T21:43:12Z"
+title: "VMware Tanzu Standard 101"
+date: "2021-03-01T14:21:43Z"
 draft: true
 # meta description
-description: "TKO Placeholder"
+description: "This course provides an introductory technical overview to VMware Tanzu Basic and Tanzu Standard"
 # course thumbnail
-image: "https://modernapps.ninja/tkoplaceholder_tk8606/admin/assets/images/tkoplaceholder_tk8606.jpg"
+image: "https://modernapps.ninja/introtanzustandard_ts7297/admin/assets/images/introtanzustandard_ts7297.jpg"
 # taxonomy
 tags: ["Tanzu Portfiolio"]
 # teacher
@@ -17,12 +17,12 @@ duration: "0 Hours"
 # course fee
 fee: "Free!"
 # apply url
-apply_url: "https://modernapps.github.io/tkoplaceholder_tk8606"
+apply_url: "https://modernapps.github.io/introtanzustandard_ts7297"
 # type
 type: "course"
 ### Extended Ninja Course Metadata
-content_id: tk8606
-course_short_title: tkoplaceholder
-course_navbar_title: TKO Placeholder
-course_repo_name: tkoplaceholder_tk8606
----  
+content_id: ts7297
+course_short_title: introtanzustandard
+course_navbar_title: Tanzu Standard 101
+course_repo_name: introtanzustandard_ts7297
+---
