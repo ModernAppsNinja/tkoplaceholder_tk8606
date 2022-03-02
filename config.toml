@@ -1,5 +1,5 @@
 baseURL = "https://modernappsninja.github.io/tkoplaceholder_tk8606"
-title = "Intro to VMware Tanzu Standard"
+title = "Intro to VMware Tanzu Kubernetes Operations"
 
 enableRobotsTXT = true
 
@@ -53,7 +53,7 @@ id = "UA-162817887-1"
 
 [languages]
 [languages.en]
-title = "Intro to VMware Tanzu Standard"
+title = "Intro to VMware Tanzu Kubernetes Operations"
 description = "This course provides an introductory technical overview to VMware Tanzu Basic and Tanzu Standard"
 languageName ="English"
 # Weight used for sorting.

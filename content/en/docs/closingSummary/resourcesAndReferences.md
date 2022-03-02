@@ -5,14 +5,6 @@ weight: 9005
 ---
 **Links to additional materials:**
 
--   For more information on vSphere with Tanzu check out the [vSphere
-    product](https://www.vmware.com/products/vsphere.html) page.
--   [vSphere with
-    Tanzu](https://blogs.vmware.com/vsphere/2020/09/announcing-vsphere-with-tanzu.html) by
-    Kit Colbert
--   [vSphere with Tanzu -
-    YouTube](https://www.youtube.com/watch?v=d6Hc2ceghIk&feature=youtu.be) by
-    Sheldon D\'Paiva 
 -   ebook: [Deliver Developer-Ready Infrastructure Using vSphere with
     Tanzu](https://www.vmware.com/learn/648341_REG.html)
 -   [KubeAcademy](https://kube.academy/) courses are composed of a
@@ -27,6 +19,8 @@ weight: 9005
 -   [Dissecting a Tanzu Kubernetes Cluster Spec with the TKG Service for
     vSphere](https://tanzu.vmware.com/content/blog/dissecting-a-tanzu-kubernetes-cluster-spec-with-the-tkg-service-for-vsphere) by
     Kenny Coleman
+
+For the truly brave interested in a Kubernetes CKA certification: https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/
 
 **Web:** <https://tanzu.vmware.com>
 

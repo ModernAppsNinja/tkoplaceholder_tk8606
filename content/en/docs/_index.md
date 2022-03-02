@@ -1,6 +1,6 @@
 ---
-title: "Intro to VMware Tanzu Standard"
-linkTitle: "Intro to Tanzu Standard"
+title: "Intro to VMware Tanzu Kubernetes Operations"
+linkTitle: "Intro to Tanzu Kubernetes Operations"
 weight: 20
 menu:
   main:
