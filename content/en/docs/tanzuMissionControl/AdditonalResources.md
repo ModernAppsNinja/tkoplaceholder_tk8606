@@ -5,6 +5,8 @@ weight: 4090
 
 ---
 
+**Remember to right click the link to open the video in a new tab**  
+
 If you are interested in learning more about Tanzu Mission Control:  
 
 VMware Tanzu Mission Control Concepts - (https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf)

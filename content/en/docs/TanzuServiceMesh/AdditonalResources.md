@@ -5,6 +5,9 @@ weight: 7030
 
 ---
 
+**Remember to right click the link to open the  docs and video in a new tab**   
+
+
 If you are interested in learning more about Service Mesh:
 
 VMware Tanzu Service Mesh Concepts: (https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/GUID-D69608BC-A748-4B99-9280-176D286837C9-1-en.pdf)
