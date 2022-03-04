@@ -54,7 +54,7 @@ id = "UA-162817887-1"
 [languages]
 [languages.en]
 title = "Intro to VMware Tanzu Kubernetes Operations"
-description = "This course provides an introductory technical overview to VMware Tanzu Basic and Tanzu Standard"
+description = "This course provides an introductory technical overview to VMware Tanzu Kubernetes Operations"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
