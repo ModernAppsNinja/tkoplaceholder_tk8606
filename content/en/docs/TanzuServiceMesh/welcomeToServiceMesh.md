@@ -7,6 +7,5 @@ weight: 7005
 
 This module provides a overview of Tanzu Service Mesh and how it provides connectivity, security and observability to any Kubernetes cluster.
 
-**Remember to right click the link to open the video in a new tab**  
 
 {{< youtube  m4aU0P2749c>}}

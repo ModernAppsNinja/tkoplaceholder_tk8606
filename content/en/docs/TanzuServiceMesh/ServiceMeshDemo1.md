@@ -5,6 +5,5 @@ weight: 7020
 
 ---
 
-**Remember to right click the link to open the video in a new tab**  
 
 {{< youtube EquVhIkS1oc  >}}
