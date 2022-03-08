@@ -5,7 +5,7 @@ weight: 1010
 
 ---
 
-Welcome to the Tanzu for  Kubernetes Operations Course. On behalf of the VMware Modern Applicaiotns Team we thank you for your time in taking this course.
+Welcome to the Tanzu for  Kubernetes Operations Course. On behalf of the VMware Modern Applications Team we thank you for your time in taking this course.
 
 A few Notes before we begin:  
 - Some of the links in this course will only work for VMware employees as they are behind the VMware corporate firewall.   
