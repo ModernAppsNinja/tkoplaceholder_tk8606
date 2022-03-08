@@ -1,5 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intro to VMware Tanzu Kubernetes Operations – Intro to VMware Tanzu Kubernetes Operations</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/</link><description>Recent content on Intro to VMware Tanzu Kubernetes Operations</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Welcome to the Course</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/welcometothecourse/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/welcometothecourse/</guid><description>
-&lt;p>Welcome to the Tanzu Kubernetes Operations Course. On behalf of the VMware Modern Applicaiotns Team we thank you for your time in taking this course.&lt;/p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intro to VMware Tanzu Kubernetes Operations – Intro to VMware Tanzu for Kubernetes Operations</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/</link><description>Recent content in Intro to VMware Tanzu for Kubernetes Operations on Intro to VMware Tanzu Kubernetes Operations</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Welcome to the Course</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/welcometothecourse/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/welcometothecourse/</guid><description>
+&lt;p>Welcome to the Tanzu for Kubernetes Operations Course. On behalf of the VMware Modern Applicaiotns Team we thank you for your time in taking this course.&lt;/p>
 &lt;p>A few Notes before we begin:&lt;/p>
 &lt;ul>
 &lt;li>Some of the links in this course will only work for VMware employees as they are behind the VMware corporate firewall.&lt;/li>
@@ -11,7 +11,7 @@
 &lt;p>Automation and monitoring of cloud platform operations. &lt;br>
 Enforcement of Networking, security and compliance requirements. &lt;br>
 Platform operation cost optimization.&lt;/p>
-&lt;p>Tanzu Kubernetes Operations Contains:&lt;/p>
+&lt;p>Tanzua for Kubernetes Operations Contains:&lt;/p>
 &lt;p>Tanzu Mission Control (TMC) Advanced - Includes additional functionality around policies.&lt;br>
 Tanzu Service Mesh (TSM) Advanced.
 Antrea Advanced - Offers Tier RBAC policy control and Wavefront Integration.
@@ -24,7 +24,7 @@ AVI Enterprise (aka AVI Vantage/NSX Advanced Load Balancer).&lt;/p>
 &lt;p>We recommend taking the &lt;a href="https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/">Introduction to VMware Tanzu
 Portfolio&lt;/a> course
 prior to taking this course.&lt;/p>
-&lt;p>This course assumes familiarity witha the basic components which make up Tanzu Kubernetes Operations:&lt;/p>
+&lt;p>This course assumes familiarity witha the basic components which make up Tanzu for Kubernetes Operations:&lt;/p>
 &lt;ul>
 &lt;li>Tanzu Kubernetes Grid&lt;/li>
 &lt;li>Tanzu Mission Control&lt;/li>
