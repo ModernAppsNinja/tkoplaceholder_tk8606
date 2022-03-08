@@ -10,6 +10,8 @@ weight: 5080
 
 If you are interested in learning more about Tanzu Observability:
 
+[Tanzu Observability Pathfinder Lab](https://pathfinder.vmware.com/v3/path/tko_path)  
+
 [Tanzu Observability - What is it and why is it valuable](https://www.youtube.com/playlist?list=PLPGZsvbdUCi4UvTy3WLtqfUXw_P-iKLKP)  
 [Tanzu Observability Documentation](https://docs.wavefront.com/)
 

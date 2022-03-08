@@ -1,5 +1,5 @@
 ---
-title: "Additional Tanzu Kubernetes Grid Resources"
+title: "Additional Tanzu Kubernetes Operations Resources"
 date: 2020-10-12T18:34:25-07:00
 weight: 2095
 
@@ -10,7 +10,9 @@ weight: 2095
 
 If you are interested in learning more about Tanzu Kubernetes Operations:  
 
-[VMware Tanzu Kubernetes Operations Pathfinder Lab :](https://pathfinder.vmware.com/v3/path/tko_path/section/step1/activity/tanzu_kubernetes_operations)
+[VMware Tanzu Kubernetes Operations Pathfinder Lab ](https://pathfinder.vmware.com/v3/path/tko_path/section/step1/activity/tanzu_kubernetes_operations)
+
+VMware Hands On Labs #2234
 
 
 

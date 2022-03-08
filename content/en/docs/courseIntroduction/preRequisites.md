@@ -15,20 +15,6 @@ This course assumes familiarity witha the basic components which make up Tanzu K
 - Tanzu Service Mesh
 - Avi/NSX Load Balancer
 
-If you do not have a conversational level of knowledge about these technologies you may benefit from reviewing the following:
-
-For Tanzu Kubernetes Grid (https://tanzu.vmware.com/kubernetes-grid) and the Hands On Lab #2234  
-For Tanzu Mission Control (https://tanzu.vmware.com/mission-control) and the Hands On Lab #2234  
-For Tanzu Observability 
-For Tanzu Service Mesh
-For Avi: (https://avinetworks.com/education/)
-
-You may also want to familarize yourself with the Tanzu portfolio and  TKO labs on Pathfinder:
-
-Tanzu Standard [https://pathfinder.vmware.com/path/tanzu_standard] (https://pathfinder.vmware.com/path/tanzu_standard)   
-TKO (https://pathfinder.vmware.com/v3/path/tko_path)  
-AVI/NSX Load Balancer (https://pathfinder.vmware.com/v3/path/nsxbc)  
-
 
 Additonally some  familarity with  Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we

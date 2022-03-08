@@ -13,6 +13,8 @@ Release notes are always a good read (https://docs.vmware.com/en/VMware-Tanzu-Ku
 
 VMware Tanzu Kubernetes Grid (https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html)
 
+Tanzu Standard Pathfinder Lab [https://pathfinder.vmware.com/path/tanzu_standard] (https://pathfinder.vmware.com/path/tanzu_standard)
+
 VMware Tanzu Reference Architecture: (https://docs.vmware.com/en/VMware-Tanzu/services/tanzu-reference-architecture.pdf)
 
 Also there are multiple Tanzzu Kubernetes Grid Labs ( Hands On Lab: https://pathfinder.vmware.com/v3/explore/hol). Simply type "tanzu kubernetes grid" in the search bar.   

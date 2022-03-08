@@ -16,7 +16,7 @@ Enforcement of Networking, security and compliance requirements
 Platform operation cost optimization
 
 TKO Includes:  
-Tanzu Standard Runtime (TKG)  
+Tanzu (Kubernetes Grid TKG)  
 Tanzu Mission Control (TMC)  
 Tanzu Observability (TO)  
 Tanzu Service Mesh Advanced (TSM)  

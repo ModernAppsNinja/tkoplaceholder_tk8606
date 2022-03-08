@@ -11,3 +11,7 @@ If you are interested in learning more about Tanzu Mission Control:
 
 VMware Tanzu Mission Control Concepts - (https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf)
 
+Tanzu Mission Control Overview  (https://tanzu.vmware.com/mission-control)   
+
+VMware Hands On Lab #2234
+
