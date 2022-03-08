@@ -8,7 +8,7 @@ We recommend taking the [Introduction to VMware Tanzu
 Portfolio](https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/) course
 prior to taking this course.
 
-This course assumes familiarity witha the basic components which make up Tanzu Kubernetes Operations:
+This course assumes familiarity witha the basic components which make up Tanzu for Kubernetes Operations:
 - Tanzu Kubernetes Grid
 - Tanzu Mission Control
 - Tanzu Observability

@@ -5,7 +5,7 @@ weight: 1010
 
 ---
 
-Welcome to the Tanzu Kubernetes Operations Course. On behalf of the VMware Modern Applicaiotns Team we thank you for your time in taking this course.
+Welcome to the Tanzu for  Kubernetes Operations Course. On behalf of the VMware Modern Applicaiotns Team we thank you for your time in taking this course.
 
 A few Notes before we begin:  
 - Some of the links in this course will only work for VMware employees as they are behind the VMware corporate firewall.   
@@ -21,7 +21,7 @@ Automation and monitoring of cloud platform operations.
 Enforcement of Networking, security and compliance requirements.    
 Platform operation cost optimization.    
 
-Tanzu Kubernetes Operations Contains:  
+Tanzua for  Kubernetes Operations Contains:  
 
 Tanzu Mission Control (TMC) Advanced - Includes additional functionality around policies.  
 Tanzu Service Mesh (TSM) Advanced.
