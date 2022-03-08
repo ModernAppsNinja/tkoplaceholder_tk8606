@@ -18,9 +18,8 @@ Antrea Advanced - Offers Tier RBAC policy control and Wavefront Integration.
 AVI Enterprise (aka AVI Vantage/NSX Advanced Load Balancer).&lt;/p>
 &lt;p>Thank you for investing your time!&lt;/p>
 &lt;p>=======&lt;/p>
-&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/xshaCuCDDME" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/DjKmkeqMKE8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Docs: Prerequisites For The Tanzu For Kubernetes Operations Course</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/prerequisites/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/prerequisites/</guid><description>
 &lt;p>We recommend taking the &lt;a href="https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/">Introduction to VMware Tanzu
 Portfolio&lt;/a> course
@@ -33,16 +32,6 @@ prior to taking this course.&lt;/p>
 &lt;li>Tanzu Service Mesh&lt;/li>
 &lt;li>Avi/NSX Load Balancer&lt;/li>
 &lt;/ul>
-&lt;p>If you do not have a conversational level of knowledge about these technologies you may benefit from reviewing the following:&lt;/p>
-&lt;p>For Tanzu Kubernetes Grid (&lt;a href="https://tanzu.vmware.com/kubernetes-grid">https://tanzu.vmware.com/kubernetes-grid&lt;/a>) and the Hands On Lab #2234&lt;br>
-For Tanzu Mission Control (&lt;a href="https://tanzu.vmware.com/mission-control">https://tanzu.vmware.com/mission-control&lt;/a>) and the Hands On Lab #2234&lt;br>
-For Tanzu Observability
-For Tanzu Service Mesh
-For Avi: (&lt;a href="https://avinetworks.com/education/">https://avinetworks.com/education/&lt;/a>)&lt;/p>
-&lt;p>You may also want to familarize yourself with the Tanzu portfolio and TKO labs on Pathfinder:&lt;/p>
-&lt;p>Tanzu Standard [https://pathfinder.vmware.com/path/tanzu_standard] (&lt;a href="https://pathfinder.vmware.com/path/tanzu_standard">https://pathfinder.vmware.com/path/tanzu_standard&lt;/a>)&lt;br>
-TKO (&lt;a href="https://pathfinder.vmware.com/v3/path/tko_path">https://pathfinder.vmware.com/v3/path/tko_path&lt;/a>)&lt;br>
-AVI/NSX Load Balancer (&lt;a href="https://pathfinder.vmware.com/v3/path/nsxbc">https://pathfinder.vmware.com/v3/path/nsxbc&lt;/a>)&lt;/p>
 &lt;p>Additonally some familarity with Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we
 recommend checking out &lt;a href="https://kube.academy/">KubeAcademy&lt;/a> by VMware,
@@ -61,7 +50,7 @@ Automation and monitoring of cloud platform operations
 Enforcement of Networking, security and compliance requirements
 Platform operation cost optimization&lt;/p>
 &lt;p>TKO Includes:&lt;br>
-Tanzu Standard Runtime (TKG)&lt;br>
+Tanzu (Kubernetes Grid TKG)&lt;br>
 Tanzu Mission Control (TMC)&lt;br>
 Tanzu Observability (TO)&lt;br>
 Tanzu Service Mesh Advanced (TSM)&lt;br>
@@ -74,26 +63,35 @@ Avi Enterprise&lt;/p></description></item><item><title>Docs: Getting Started wit
 &lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/kTvQOxnQ5kA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Docs: TKG Extensions and Shared Services</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tkgextensionsservices/</link><pubDate>Mon, 12 Oct 2020 18:40:02 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tkgextensionsservices/</guid><description>
+&lt;/div></description></item><item><title>Docs: Tanzu Kubernetes Operations Demo</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-demo/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-demo/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;p>[Tanzu Kubernetes Operations Quick Demo]
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/1agkVRSi7fM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Docs: TKO Overview Section Summary</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/sectionsummary/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/sectionsummary/</guid><description>
-&lt;p>You have reached the end of this section. Please use the navigation bar to proceed to the next section.&lt;/p></description></item><item><title>Docs: Additional Tanzu Kubernetes Grid Resources</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/additonalresources/</guid><description>
+&lt;iframe src="https://www.youtube.com/embed/I39j_3tPqhw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Docs: TKO Overview Section Summary</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/sectionsummary/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/sectionsummary/</guid><description>
+&lt;p>You have reached the end of this section. Please use the navigation bar to proceed to the next section.&lt;/p></description></item><item><title>Docs: Additional Tanzu Kubernetes Operations Resources</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/additonalresources/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the docs and video in a new tab&lt;/strong>&lt;/p>
 &lt;p>If you are interested in learning more about Tanzu Kubernetes Operations:&lt;/p>
-&lt;p>&lt;a href="https://pathfinder.vmware.com/v3/path/tko_path/section/step1/activity/tanzu_kubernetes_operations">VMware Tanzu Kubernetes Operations Pathfinder Lab :&lt;/a>&lt;/p></description></item><item><title>Docs: Getting Started with Tanzu Kubernetes Grid</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/getstartedtkg/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/getstartedtkg/</guid><description>
+&lt;p>&lt;a href="https://pathfinder.vmware.com/v3/path/tko_path/section/step1/activity/tanzu_kubernetes_operations">VMware Tanzu Kubernetes Operations Pathfinder Lab &lt;/a>&lt;/p>
+&lt;p>VMware Hands On Labs #2234&lt;/p></description></item><item><title>Docs: Getting Started with Tanzu Kubernetes Grid</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/getstartedtkg/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/getstartedtkg/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/4Q1_812V9Jg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Docs: TKG Packaging and Installation Options</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/tkgpackaginginstallation/</link><pubDate>Mon, 12 Oct 2020 18:35:13 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/tkgpackaginginstallation/</guid><description>
-&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;/div></description></item><item><title>Docs: What is Project Antrea</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/introtoantrea/</link><pubDate>Mon, 12 Oct 2020 18:35:13 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/introtoantrea/</guid><description>
+&lt;p>VMware container networking with Antrea is an integrated Kubernetes service for managing Windows and Linux workloads across multiple clouds.&lt;/p>
+&lt;p>Antrea is a Kubernetes-native project that implements the Container Network Interface (CNI) and Kubernetes NetworkPolicy thereby providing network connectivity and security for pod workloads. Antrea extends the benefit of programmable networks from Open vSwitch (OVS) to Kubernetes.&lt;/p>
+&lt;p>Antrea is the default networking used for Tanzu Kubernetes Grid.&lt;/p>
+&lt;h1 id="this-video-isa-from-vmware-code-and--fairly-lenghty-62-min">This video isa from VMware code and fairly lenghty (62 min)&lt;/h1>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/kzF1r8qGlyo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Docs: TKG Extensions and Shared Services</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/tkgextensionsservices/</link><pubDate>Mon, 12 Oct 2020 18:40:02 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/tkgextensionsservices/</guid><description>
-&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;iframe src="https://www.youtube.com/embed/l4Qdltsl01U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Docs: Building a network with Antrea</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/antrea/</link><pubDate>Mon, 12 Oct 2020 18:35:13 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/antrea/</guid><description>
+&lt;p>VMware container networking with Antrea is an integrated Kubernetes service for managing Windows and Linux workloads across multiple clouds.&lt;/p>
+&lt;p>Antrea is a Kubernetes-native project that implements the Container Network Interface (CNI) and Kubernetes NetworkPolicy thereby providing network connectivity and security for pod workloads. Antrea extends the benefit of programmable networks from Open vSwitch (OVS) to Kubernetes.&lt;/p>
+&lt;p>Antrea is the default networking used for Tanzu Kubernetes Grid.&lt;/p>
+&lt;p>=======&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe src="https://www.youtube.com/embed/1agkVRSi7fM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;iframe src="https://www.youtube.com/embed/l4Qdltsl01U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Docs: Kubernetes Cluster Lifecycle Management</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/k8sclusterlfm/</link><pubDate>Mon, 12 Oct 2020 18:40:02 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/k8sclusterlfm/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -107,6 +105,7 @@ Avi Enterprise&lt;/p></description></item><item><title>Docs: Getting Started wit
 &lt;p>If you are interested in learning more about Tanzu Kubernetes Grid:&lt;/p>
 &lt;p>Release notes are always a good read (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html">https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/1.5/vmware-tanzu-kubernetes-grid-15/GUID-index.html&lt;/a>)&lt;/p>
 &lt;p>VMware Tanzu Kubernetes Grid (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html">https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid/index.html&lt;/a>)&lt;/p>
+&lt;p>Tanzu Standard Pathfinder Lab [https://pathfinder.vmware.com/path/tanzu_standard] (&lt;a href="https://pathfinder.vmware.com/path/tanzu_standard">https://pathfinder.vmware.com/path/tanzu_standard&lt;/a>)&lt;/p>
 &lt;p>VMware Tanzu Reference Architecture: (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu/services/tanzu-reference-architecture.pdf">https://docs.vmware.com/en/VMware-Tanzu/services/tanzu-reference-architecture.pdf&lt;/a>)&lt;/p>
 &lt;p>Also there are multiple Tanzzu Kubernetes Grid Labs ( Hands On Lab: &lt;a href="https://pathfinder.vmware.com/v3/explore/hol)">https://pathfinder.vmware.com/v3/explore/hol)&lt;/a>. Simply type &amp;ldquo;tanzu kubernetes grid&amp;rdquo; in the search bar.&lt;/p></description></item><item><title>Docs: TKG Overview Section Summary</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/sectionsummary/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzukubernetesgridoverview/sectionsummary/</guid><description>
 &lt;p>You have reached the end of this section. Please use the navigation bar to proceed to the next section.&lt;/p></description></item><item><title>Docs: Tanzu Mission Control Intro Video</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/tmcintrovideo/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/tmcintrovideo/</guid><description>
@@ -136,15 +135,18 @@ Avi Enterprise&lt;/p></description></item><item><title>Docs: Getting Started wit
 &lt;/div></description></item><item><title>Docs: Additional Tanzu Mission Control Resources</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/additonalresources/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
 &lt;p>If you are interested in learning more about Tanzu Mission Control:&lt;/p>
-&lt;p>VMware Tanzu Mission Control Concepts - (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf">https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf&lt;/a>)&lt;/p></description></item><item><title>Docs: Tanzu Observability Overview</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview/</guid><description>
+&lt;p>VMware Tanzu Mission Control Concepts - (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf">https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf&lt;/a>)&lt;/p>
+&lt;p>Tanzu Mission Control Overview (&lt;a href="https://tanzu.vmware.com/mission-control">https://tanzu.vmware.com/mission-control&lt;/a>)&lt;/p>
+&lt;p>VMware Hands On Lab #2234&lt;/p></description></item><item><title>Docs: Tanzu Observability Overview</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/KTTjM5U4TZk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
-&lt;/div></description></item><item><title>Docs: How Tanzu Observabliity Provides Crutical Insights</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview2/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview2/</guid><description>
+&lt;/div></description></item><item><title>Docs: How Tanzu Observabliity Provides Critical Insights</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview2/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/to-overview2/</guid><description>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/I1rudr1Nyj8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Docs: Additional Tanzu Observability Resources</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzuobservability/additonalresources/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the docs and video in a new tab&lt;/strong>&lt;/p>
 &lt;p>If you are interested in learning more about Tanzu Observability:&lt;/p>
+&lt;p>&lt;a href="https://pathfinder.vmware.com/v3/path/tko_path">Tanzu Observability Pathfinder Lab&lt;/a>&lt;/p>
 &lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLPGZsvbdUCi4UvTy3WLtqfUXw_P-iKLKP">Tanzu Observability - What is it and why is it valuable&lt;/a>&lt;br>
 &lt;a href="https://docs.wavefront.com/">Tanzu Observability Documentation&lt;/a>&lt;/p></description></item><item><title>Docs: Tanzu Mission Control Course Summary</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/sectionsummary/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tanzumissioncontrol/sectionsummary/</guid><description>
 &lt;p>You have reached the end of this section. Please use the navigation bar to proceed to the next section.&lt;/p></description></item><item><title>Docs: Dummies Guide to Modern Load Balancing</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/avioverview/avi-for-dummies/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/avioverview/avi-for-dummies/</guid><description>
@@ -179,6 +181,7 @@ Avi Enterprise&lt;/p></description></item><item><title>Docs: Getting Started wit
 &lt;p>&lt;a href="https://www.vmware.com/vmworld/en/video-library/video-landing.html?sessionid=1585943175358001TsMa">Niran&amp;rsquo;s overview from VMworld2020&lt;/a>&lt;/p></description></item><item><title>Docs: Additional Avi Load Balancer Resources</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/avioverview/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/avioverview/additonalresources/</guid><description>
 &lt;p>&lt;strong>Remember to right click the link to open the docs and video in a new tab&lt;/strong>&lt;/p>
 &lt;p>If you are interested in learning more about the Avi load balancer:&lt;/p>
+&lt;p>&lt;a href="https://pathfinder.vmware.com/v3/path/nsxbc">AVI/NSX Load Balancer Pathfinder lab&lt;/a>&lt;/p>
 &lt;p>VMware Tanzu Service Mesh Concepts: (&lt;a href="https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/GUID-D69608BC-A748-4B99-9280-176D286837C9-1-en.pdf">https://docs.vmware.com/en/VMware-Tanzu-Service-Mesh/services/GUID-D69608BC-A748-4B99-9280-176D286837C9-1-en.pdf&lt;/a>)&lt;/p>
 &lt;p>VMware Tanzu Service Mesh from the Developer’s Perspective
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
