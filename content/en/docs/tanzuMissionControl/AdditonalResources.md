@@ -9,9 +9,13 @@ weight: 4090
 
 If you are interested in learning more about Tanzu Mission Control:  
 
-VMware Tanzu Mission Control Concepts - (https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf)
+[VMware Tanzu Mission Control Documentation](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/index.html)
 
-Tanzu Mission Control Overview  (https://tanzu.vmware.com/mission-control)   
+[VMware Tanzu Mission Control Concepts](https://docs.vmware.com/en/VMware-Tanzu-Mission-Control/services/tanzumc-concepts.pdf)
 
-VMware Hands On Lab #2234
+[Tanzu Mission Control Overview](https://tanzu.vmware.com/mission-control)   
+
+[Tanzu Mission Control Pathfinder](https://pathfinder.vmware.com/v3/path/tanzu)  
+
+[VMware Hands On Lab](https://labs.hol.vmware.com/HOL/catalogs/lab/10506)
 
