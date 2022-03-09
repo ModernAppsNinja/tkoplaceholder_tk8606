@@ -5,43 +5,37 @@
 &lt;li>Some of the links in this course will only work for VMware employees as they are behind the VMware corporate firewall.&lt;/li>
 &lt;li>In launching a hyperlink please RIGHT click on the link and select &amp;ldquo;open link in new tab&amp;rdquo; to avoid having the link for this course overlayed&lt;/li>
 &lt;/ul>
-&lt;p>This course provides a technical introduction to VMware Tanzu Kubernetes Operations (TKO)&lt;/p>
+&lt;p>This course provides a technical introduction to VMware Tanzu for Kubernetes Operations (TKO).&lt;/p>
 &lt;p>Tanzu for Kubernetes Operations (TKO) aims to meet the needs of on-premise and public cloud infrastructure teams.&lt;/p>
 &lt;p>TKO addresses Developer self-service to the right infrastructure abstraction and app building blocks:&lt;/p>
-&lt;p>Automation and monitoring of cloud platform operations. &lt;br>
-Enforcement of Networking, security and compliance requirements. &lt;br>
-Platform operation cost optimization.&lt;/p>
+&lt;ul>
+&lt;li>Automation and monitoring of cloud platform operations.&lt;/li>
+&lt;li>Enforcement of Networking, security and compliance requirements.&lt;/li>
+&lt;li>Platform operation cost optimization.&lt;/li>
+&lt;/ul>
 &lt;p>Tanzua for Kubernetes Operations Contains:&lt;/p>
-&lt;p>Tanzu Mission Control (TMC) Advanced - Includes additional functionality around policies.&lt;br>
-Tanzu Service Mesh (TSM) Advanced.
-Antrea Advanced - Offers Tier RBAC policy control and Wavefront Integration.
-AVI Enterprise (aka AVI Vantage/NSX Advanced Load Balancer).&lt;/p>
+&lt;ul>
+&lt;li>Tanzu Kubernetes Grid (TKG).&lt;/li>
+&lt;li>Tanzu Mission Control (TMC) Advanced - Includes additional functionality around policies.&lt;/li>
+&lt;li>Tanzu Service Mesh (TSM) Advanced.&lt;/li>
+&lt;li>Antrea Advanced - Offers Tier RBAC policy control and Wavefront Integration.&lt;/li>
+&lt;li>AVI Enterprise (aka AVI Vantage/NSX Advanced Load Balancer).&lt;/li>
+&lt;/ul>
 &lt;p>Thank you for investing your time!&lt;/p>
 &lt;p>=======&lt;/p>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/DjKmkeqMKE8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div></description></item><item><title>Docs: Prerequisites For The Tanzu For Kubernetes Operations Course</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/prerequisites/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/courseintroduction/prerequisites/</guid><description>
-&lt;p>We recommend taking the &lt;a href="https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/">Introduction to VMware Tanzu
-Portfolio&lt;/a> course
-prior to taking this course.&lt;/p>
-&lt;p>This course assumes familiarity witha the basic components which make up Tanzu for Kubernetes Operations:&lt;/p>
-&lt;ul>
-&lt;li>Tanzu Kubernetes Grid&lt;/li>
-&lt;li>Tanzu Mission Control&lt;/li>
-&lt;li>Tanzu Observability&lt;/li>
-&lt;li>Tanzu Service Mesh&lt;/li>
-&lt;li>Avi/NSX Load Balancer&lt;/li>
-&lt;/ul>
-&lt;p>Additonally some familarity with Kubernetes and Cloud Native
+&lt;p>We recommend some familarity with Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we
 recommend checking out &lt;a href="https://kube.academy/">KubeAcademy&lt;/a> by VMware,
 which has a terrific set of free, bite-size video resources on the
 basics of containers, Kubernetes and cloud native that are great for
 beginners.&lt;/p>
-&lt;p>Before taking this course, you should also have familiarity with vSphere
-administration. If you need additional background in vSphere, we
-recommend checking out &lt;a href="https://hol.vmware.com">VMware Hands on Labs&lt;/a>,
-which offers a number of vSphere labs and content including labs which cover TKO and the components which comprise the bundle.&lt;/p></description></item><item><title>Docs: What is Tanzu Kubernetes Operations (TKO)</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-intro/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-intro/</guid><description>
+&lt;p>If you would like some additional background on Tanzu and would like to use a live environment we
+recommend checking out the many Tanzu Hands On Labs &lt;a href="https://hol.vmware.com">VMware Hands on Labs&lt;/a>,
+which offer a number of Tanzu labs with the components which comprise TKO.&lt;/p>
+&lt;p>There are also excellent trainings available in VMware Pathfinder &lt;a href="https://pathfinder.vmware.com/v3/path/tko_path">Pathfinder&lt;/a>&lt;/p></description></item><item><title>Docs: What is Tanzu Kubernetes Operations (TKO)</title><link>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-intro/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/tkoplaceholder_tk8606/docs/tko-overview/tko-intro/</guid><description>
 &lt;p>&lt;strong>What is Tanzu for Kubernetes Operations, or “TKO”&lt;/strong>&lt;/p>
 &lt;p>Tanzu for Kubernetes Operations includes a set of products and services specifically targeted to meet the needs of on-prem and cloud infrastructure teams.&lt;/p>
 &lt;p>TKO addresses:
