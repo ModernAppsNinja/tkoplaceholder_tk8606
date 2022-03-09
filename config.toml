@@ -101,10 +101,10 @@ archived_version = false
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://modernappsninja.github.io/introtanzustandard_ts7297/"
+url_latest_version = "https://modernappsninja.github.io/tkoplaceholder_tk8606"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/ModernAppsNinja/introtanzustandard_ts7297/"
+github_repo = "https://github.com/ModernAppsNinja/tkoplaceholder_tk8606"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/ModernAppsNinja/modernappsninja.github.io"
 # The branch that will be referenced in the edit this page and create child page links
