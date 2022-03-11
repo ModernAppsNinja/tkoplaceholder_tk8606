@@ -5,6 +5,9 @@ weight: 9005
 ---
 **Links to additional materials:**
 
+- [Get your hands dirty with VMware Tanzu](https://www.youtube.com/watch?v=j_BO1LpnyxA)
+
+
 -   ebook: [Deliver Developer-Ready Infrastructure Using vSphere with
     Tanzu](https://www.vmware.com/learn/648341_REG.html)
 -   [KubeAcademy](https://kube.academy/) courses are composed of a
